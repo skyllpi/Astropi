@@ -1,5 +1,5 @@
 # isro_hackathon
-open sourcing code once then results get out 
+open sourcing code once then results get out ...
 
 ## 📌 Problem Statement
 Predict future cloud movement using **INSAT-3DR/3DS satellite imagery** with advanced generative AI techniques.
